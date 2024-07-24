@@ -1,0 +1,2 @@
+Este site está hospedado no GitHub Pages.
+Para você visualizar o visual do site criado, cole o seguinte link na barra de pesquisa do seu navegador: https://ribamarmuniz.github.io/html-css/site-android/
